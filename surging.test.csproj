@@ -148,6 +148,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update=".dockerignore">
+      <DependentUpon>Dockerfile</DependentUpon>
+    </None>
     <None Update="cacheSettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

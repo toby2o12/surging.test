@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  surging.test:
+    image: surging.test
+    build:
+      context: .
+      dockerfile: Dockerfile
