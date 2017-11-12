@@ -11,139 +11,139 @@
 
   <ItemGroup>
     <Reference Include="Autofac">
-      <HintPath>lib\Autofac.dll</HintPath>
+      <HintPath>..\lib\Autofac.dll</HintPath>
     </Reference>
     <Reference Include="Autofac.Extensions.DependencyInjection">
-      <HintPath>lib\Autofac.Extensions.DependencyInjection.dll</HintPath>
+      <HintPath>..\lib\Autofac.Extensions.DependencyInjection.dll</HintPath>
     </Reference>
     <Reference Include="Consul">
-      <HintPath>lib\Consul.dll</HintPath>
+      <HintPath>..\lib\Consul.dll</HintPath>
     </Reference>
     <Reference Include="DotNetty.Buffers">
-      <HintPath>lib\DotNetty.Buffers.dll</HintPath>
+      <HintPath>..\lib\DotNetty.Buffers.dll</HintPath>
     </Reference>
     <Reference Include="DotNetty.Codecs">
-      <HintPath>lib\DotNetty.Codecs.dll</HintPath>
+      <HintPath>..\lib\DotNetty.Codecs.dll</HintPath>
     </Reference>
     <Reference Include="DotNetty.Common">
-      <HintPath>lib\DotNetty.Common.dll</HintPath>
+      <HintPath>..\lib\DotNetty.Common.dll</HintPath>
     </Reference>
     <Reference Include="DotNetty.Transport">
-      <HintPath>lib\DotNetty.Transport.dll</HintPath>
+      <HintPath>..\lib\DotNetty.Transport.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CodeAnalysis">
-      <HintPath>lib\Microsoft.CodeAnalysis.dll</HintPath>
+      <HintPath>..\lib\Microsoft.CodeAnalysis.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CodeAnalysis.CSharp">
-      <HintPath>lib\Microsoft.CodeAnalysis.CSharp.dll</HintPath>
+      <HintPath>..\lib\Microsoft.CodeAnalysis.CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CodeAnalysis.CSharp.Scripting">
-      <HintPath>lib\Microsoft.CodeAnalysis.CSharp.Scripting.dll</HintPath>
+      <HintPath>..\lib\Microsoft.CodeAnalysis.CSharp.Scripting.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CodeAnalysis.Scripting">
-      <HintPath>lib\Microsoft.CodeAnalysis.Scripting.dll</HintPath>
+      <HintPath>..\lib\Microsoft.CodeAnalysis.Scripting.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.DotNet.PlatformAbstractions">
-      <HintPath>lib\Microsoft.DotNet.PlatformAbstractions.dll</HintPath>
+      <HintPath>..\lib\Microsoft.DotNet.PlatformAbstractions.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Configuration">
-      <HintPath>lib\Microsoft.Extensions.Configuration.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Configuration.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Configuration.Abstractions">
-      <HintPath>lib\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Configuration.Binder">
-      <HintPath>lib\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Configuration.EnvironmentVariables">
-      <HintPath>lib\Microsoft.Extensions.Configuration.EnvironmentVariables.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Configuration.EnvironmentVariables.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Configuration.FileExtensions">
-      <HintPath>lib\Microsoft.Extensions.Configuration.FileExtensions.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Configuration.FileExtensions.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.DependencyInjection">
-      <HintPath>lib\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.DependencyInjection.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
-      <HintPath>lib\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.DependencyModel">
-      <HintPath>lib\Microsoft.Extensions.DependencyModel.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.DependencyModel.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.FileProviders.Abstractions">
-      <HintPath>lib\Microsoft.Extensions.FileProviders.Abstractions.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.FileProviders.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.FileProviders.Physical">
-      <HintPath>lib\Microsoft.Extensions.FileProviders.Physical.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.FileProviders.Physical.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.FileSystemGlobbing">
-      <HintPath>lib\Microsoft.Extensions.FileSystemGlobbing.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.FileSystemGlobbing.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Logging">
-      <HintPath>lib\Microsoft.Extensions.Logging.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Logging.Abstractions">
-      <HintPath>lib\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Logging.Console">
-      <HintPath>lib\Microsoft.Extensions.Logging.Console.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Logging.Console.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Options">
-      <HintPath>lib\Microsoft.Extensions.Options.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Options.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Primitives">
-      <HintPath>lib\Microsoft.Extensions.Primitives.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.Primitives.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>lib\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\lib\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Polly">
-      <HintPath>lib\Polly.dll</HintPath>
+      <HintPath>..\lib\Polly.dll</HintPath>
     </Reference>
     <Reference Include="protobuf-net">
-      <HintPath>lib\protobuf-net.dll</HintPath>
+      <HintPath>..\lib\protobuf-net.dll</HintPath>
     </Reference>
     <Reference Include="RabbitMQ.Client">
-      <HintPath>lib\RabbitMQ.Client.dll</HintPath>
+      <HintPath>..\lib\RabbitMQ.Client.dll</HintPath>
     </Reference>
     <Reference Include="StackExchange.Redis">
-      <HintPath>lib\StackExchange.Redis.dll</HintPath>
+      <HintPath>..\lib\StackExchange.Redis.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.Caching">
-      <HintPath>lib\Surging.Core.Caching.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.Caching.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.Common">
-      <HintPath>lib\Surging.Core.Common.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.Common.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.Consul">
-      <HintPath>lib\Surging.Core.Consul.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.Consul.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.CPlatform">
-      <HintPath>lib\Surging.Core.CPlatform.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.CPlatform.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.DotNetty">
-      <HintPath>lib\Surging.Core.DotNetty.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.DotNetty.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.EventBusRabbitMQ">
-      <HintPath>lib\Surging.Core.EventBusRabbitMQ.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.EventBusRabbitMQ.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.ProxyGenerator">
-      <HintPath>lib\Surging.Core.ProxyGenerator.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.ProxyGenerator.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.ServiceHosting">
-      <HintPath>lib\Surging.Core.ServiceHosting.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.ServiceHosting.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.System">
-      <HintPath>lib\Surging.Core.System.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.System.dll</HintPath>
     </Reference>
     <Reference Include="Surging.Core.Zookeeper">
-      <HintPath>lib\Surging.Core.Zookeeper.dll</HintPath>
+      <HintPath>..\lib\Surging.Core.Zookeeper.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>lib\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>..\lib\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="ZooKeeperNetEx">
-      <HintPath>lib\ZooKeeperNetEx.dll</HintPath>
+      <HintPath>..\lib\ZooKeeperNetEx.dll</HintPath>
     </Reference>
   </ItemGroup>
 
